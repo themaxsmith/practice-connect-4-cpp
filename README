@@ -1,0 +1,10 @@
+Maxwell Smith maxsmith@iastate.edu
+
+Connect 4 with ncurser
+
+Outputs: run game with user input 1-7 for both players
+Build: make 
+Run: ./game
+
+
+tar -czvf smith_maxwell.assignment-2.tar.gz smith_maxwell.assignment-2
